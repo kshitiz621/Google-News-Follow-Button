@@ -1,0 +1,10 @@
+<div class="shareCustom">
+	<a href="#" target="_blank" rel="noopener"><div class="googleNews">Follow Us</div></a>
+
+<div class="teleBtn">
+<a href="#" target="_blank" rel="noopener"><img class="teleBtn" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/></a></div>
+
+<div class="whatsappBtn">
+	<a href="" target="_blank" onclick="this.href='https://wa.me/?text=Have a look at:'+location.href" rel="noopener"><img class="whatsappBtn" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"/></a></div>
+	
+</div><br>
