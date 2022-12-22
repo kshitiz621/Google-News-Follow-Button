@@ -1,0 +1,44 @@
+.googleNews{ display: inline;
+  float:left;
+	border:1px solid #d2d2d2;
+	border-radius:50px;
+	line-height:32px;
+	padding: 0px 0px 0px 50px;
+	margin-right: 5px;
+	margin-left: 0px;
+	color: #424242;
+	font-size:14px;
+	font-weight:700;
+	font-family: "Lato", sans-serif;
+  background-color: transparent;
+ word-wrap: break-word;
+  width: 80px;
+	background-image: url(https://images.hindustantimes.com/images/app-images/2022/6/ht-sprite-4.svg);
+	background-position: -15px -1839px;
+	background-repeat: no-repeat;
+}
+
+.googleNews a{
+  color: #424242;
+  text-decoration: none;
+}
+.googleNews a:active{
+  color: #424242;
+}
+.googleNews a:link{
+  color: #424242;
+}
+
+.teleBtn{ display: inline;
+  float:left;
+  width: 28px;
+  height:28px;
+  margin: 2px 0px 0px 5px;
+}
+
+.whatsappBtn{
+  float: left;
+  width: 35px;
+  height: 35px;
+  margin: 0px 0px 0px 10px;
+}
